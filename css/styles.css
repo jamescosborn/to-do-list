@@ -10,3 +10,8 @@
 .item:hover {
   text-decoration: underline;
 }
+
+.strikethrough {
+  text-decoration: line-through;
+  color: red;
+}
